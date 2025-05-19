@@ -1,0 +1,2 @@
+with open('scaler.pkl', 'wb') as f:
+    pickle.dump(scaler, f)
